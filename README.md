@@ -6,7 +6,7 @@
 
 <br />
 
-<p align="center">Nesse projeto foi implementado uma urna eletrônica utilizando  o framework Vue.js. Aprendemos a trabalhar com componentes e aplicando suas estilizações.</p>
+<p align="center">Nesse projeto foi implementado uma urna eletrônica utilizando  o framework Vue.js. Aprendemos a trabalhar com componentes e aplicamos suas estilizações.</p>
 
 <br />
 <p align="center"> <img src="./assets/urna.gif"> </p>
